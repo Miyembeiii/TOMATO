@@ -1,0 +1,3 @@
+This is ex3 directory.
+I will write two lines.
+No, three lines.

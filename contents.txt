@@ -1,0 +1,11 @@
+/Users/seonginna/Projects/tomato
+|--- *  This is the root directory. It is an example use of TOMATO.
+|-ex1
+|- *  This is ex1 dir.
+|---ex3
+|--- *  This is ex3 directory.
+|--- *  I will write two lines.
+|--- *  No, three lines.
+|-ex2
+|- *  This is ex2 dir.
+|- *  Hello.

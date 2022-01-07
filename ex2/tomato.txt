@@ -1,0 +1,2 @@
+This is ex2 dir.
+Hello.
